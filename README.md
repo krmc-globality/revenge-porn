@@ -19,6 +19,8 @@ We found:
 
 * We have [published the data on this GitHub repo here](https://github.com/BBC-Data-Unit/revenge-porn/blob/master/revengedata%20NB%20-%20NOT%20ALWAYS%20POSSIBLE%20TO%20COMPARE%20ALONG%20ROWS%20-%20SEE%20COLUMN%20S%20%20-%20Sheet1.csv). Note that it is not always possible to compare along rows: the final column indicates where this is not appropriate.
 
+--> Would be useful to have more info here on the "compare" column.
+
 ## How the story developed
 
 The story began in January when Birmingham City University journalism student **Sandro Sorrentino** used a Freedom of Information request to [look at the figures in the West Midlands](http://brumbynumbers.com/473-2/).
